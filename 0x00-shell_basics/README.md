@@ -1,1 +1,1 @@
-content list of directory
+script that changes working directory to user home directory
